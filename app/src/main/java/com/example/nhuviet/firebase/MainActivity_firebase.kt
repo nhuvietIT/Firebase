@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.support.annotation.FractionRes
 import com.google.firebase.database.*
 import kotlinx.android.synthetic.main.activity_main_firebase.*
-
+// nguyen nhu viet
 class MainActivity_firebase : AppCompatActivity() {
 
 
